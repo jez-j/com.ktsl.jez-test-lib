@@ -1,0 +1,1 @@
+angular.module('com.ktsl.jez-test-lib-ext', []);
