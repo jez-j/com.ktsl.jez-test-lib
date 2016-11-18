@@ -9,3 +9,4 @@
 /bundle/target/
 /package/package/pom.xml
 /package/target/
+/bundle/node_modules/
